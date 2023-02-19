@@ -97,7 +97,7 @@ namespace csTexti {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die ©2023 by I.Steiniger
+        ///   Sucht eine lokalisierte Zeichenfolge, die ©2023 by shoKwave
         ///
         ///A simple Texteditor, written in C#. ähnelt.
         /// </summary>

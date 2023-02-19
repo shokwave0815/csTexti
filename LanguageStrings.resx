@@ -130,7 +130,7 @@
     <value>About csTexti</value>
   </data>
   <data name="InfoText" xml:space="preserve">
-    <value>©2023 by I.Steiniger
+    <value>©2023 by shoKwave
 
 A simple Texteditor, written in C#.</value>
   </data>

@@ -130,7 +130,7 @@
     <value>Über csTexti</value>
   </data>
   <data name="InfoText" xml:space="preserve">
-    <value>©2023 by I.Steiniger
+    <value>©2023 by shoKwave
 
 Ein einfacher Texteditor, der in C# geschrieben ist.</value>
     <comment>Shift + Enter für neue Zeile</comment>
