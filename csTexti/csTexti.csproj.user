@@ -12,6 +12,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Update="MainForm.de.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
     <None Update="LanguageStrings.de.resx">
       <SubType>Designer</SubType>
     </None>
